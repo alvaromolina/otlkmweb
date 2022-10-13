@@ -1,0 +1,75 @@
+.elementor-14074 .elementor-element.elementor-element-3983435:not(.elementor-motion-effects-element-type-background), .elementor-14074 .elementor-element.elementor-element-3983435 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#4D4F53;}.elementor-14074 .elementor-element.elementor-element-3983435{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:3rem 0rem 3rem 0rem;}.elementor-14074 .elementor-element.elementor-element-3983435 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-14074 .elementor-element.elementor-element-2665de2 .elementor-heading-title{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:24px;font-weight:normal;font-style:normal;}.elementor-14074 .elementor-element.elementor-element-2665de2 > .elementor-widget-container{padding:0.5rem 0rem 0rem 0rem;}.elementor-14074 .elementor-element.elementor-element-42a3f3e .elementor-button{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:bold;fill:#004BB9;color:#004BB9;background-color:#FFFFFF;border-radius:8px 8px 8px 8px;}.elementor-14074 .elementor-element.elementor-element-ebc7e0c:not(.elementor-motion-effects-element-type-background), .elementor-14074 .elementor-element.elementor-element-ebc7e0c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#4D4F53;}.elementor-14074 .elementor-element.elementor-element-ebc7e0c{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:2rem 0rem 2rem 0rem;}.elementor-14074 .elementor-element.elementor-element-ebc7e0c > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}@media(max-width:1024px){.elementor-14074 .elementor-element.elementor-element-3983435{padding:3rem 2rem 3rem 2rem;}.elementor-14074 .elementor-element.elementor-element-2665de2 .elementor-heading-title{font-size:20px;}.elementor-14074 .elementor-element.elementor-element-2665de2 > .elementor-widget-container{padding:0.75rem 0rem 0rem 0rem;}.elementor-14074 .elementor-element.elementor-element-ebc7e0c{padding:3rem 2rem 3rem 2rem;}}@media(max-width:767px){.elementor-14074 .elementor-element.elementor-element-0fdf52b{width:100%;}.elementor-14074 .elementor-element.elementor-element-2665de2{text-align:center;}.elementor-14074 .elementor-element.elementor-element-2665de2 > .elementor-widget-container{padding:1rem 0rem 1rem 0rem;}.elementor-14074 .elementor-element.elementor-element-93bce57{width:100%;}}@media(min-width:768px){.elementor-14074 .elementor-element.elementor-element-0fdf52b{width:60%;}.elementor-14074 .elementor-element.elementor-element-93bce57{width:39.956%;}}/* Start custom CSS for section, class: .elementor-element-3983435 */#show_form{
+    display: none;
+}
+div.wpforms-container-full .wpforms-form input.wpforms-field-medium, div.wpforms-container-full .wpforms-form select.wpforms-field-medium, div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium{
+    max-width: 100% !important;
+}
+@media screen and (max-width: 767px){
+.newsletter-topic{
+    padding: 1rem 1rem;
+    width: 100% !important; 
+}
+.newsletter-topic h2{
+    text-align: center;
+    font-size: 1.2rem !important;
+}
+.newsletter-topic-btn{
+    width: 100% !important;
+}
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-ebc7e0c */.newsletter-form form{
+    display: flex;
+    flex-direction: row;
+}
+.newsletter-form
+.wpforms-field-container{
+    width: 100% !important;
+}
+.newsletter-form
+.wpforms-submit-container{
+    width: 100% !important;
+        margin-left: 2rem !important;
+    margin-top: 1.25rem !important;
+
+}
+
+.newsletter-form
+.wpforms-submit-container button{
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px !important;
+    font-weight: bold;
+    fill: #004BB9;
+    color: #004BB9 !important;
+    background-color: #FFFFFF !important;
+    border-radius: 8px 8px 8px 8px !important;
+    padding: 0.5rem 2rem !important;
+}
+.newsletter-form
+.wpforms-field-container
+.wpforms-field-label{
+    color: #fff;
+}
+
+
+@media screen and (max-width: 1024px){
+    .newsletter-form
+    .wpforms-submit-container{
+        width: 100% !important;
+            margin-left: 2rem !important;
+        margin-top: 1.5rem !important;
+    
+    }
+}
+@media screen and (max-width: 1024px){
+    .newsletter-form form {
+        display: block;
+    }
+    .newsletter-form
+    .wpforms-submit-container{
+        width: 100% !important;
+            margin-left: 0rem !important;
+        margin-top: 0.5rem !important;
+        text-align: center;
+    
+    }
+}/* End custom CSS */

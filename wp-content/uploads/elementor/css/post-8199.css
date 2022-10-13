@@ -1,0 +1,71 @@
+.elementor-8199 .elementor-element.elementor-element-b18c3af, .elementor-8199 .elementor-element.elementor-element-b18c3af > .elementor-background-overlay{border-radius:0px 0px 0px 0px;}.elementor-8199 .elementor-element.elementor-element-512d319 > .elementor-element-populated{border-style:solid;border-width:1px 1px 1px 1px;border-color:#BAC7D5;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-8199 .elementor-element.elementor-element-512d319 > .elementor-element-populated, .elementor-8199 .elementor-element.elementor-element-512d319 > .elementor-element-populated > .elementor-background-overlay, .elementor-8199 .elementor-element.elementor-element-512d319 > .elementor-background-slideshow{border-radius:10px 10px 10px 10px;}.elementor-8199 .elementor-element.elementor-element-512d319 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-8199 .elementor-element.elementor-element-e0c95c0 > .elementor-widget-container{padding:0rem 0rem 0rem 0rem;}.elementor-8199 .elementor-element.elementor-element-01070b3:not(.elementor-motion-effects-element-type-background), .elementor-8199 .elementor-element.elementor-element-01070b3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F5F7F9;}.elementor-8199 .elementor-element.elementor-element-01070b3, .elementor-8199 .elementor-element.elementor-element-01070b3 > .elementor-background-overlay{border-radius:10px 10px 10px 10px;}.elementor-8199 .elementor-element.elementor-element-01070b3{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-8199 .elementor-element.elementor-element-01070b3 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-8199 .elementor-element.elementor-element-7e00e2a > .elementor-element-populated{padding:1rem 2rem 2rem 2rem;}.elementor-8199 .elementor-element.elementor-element-1176385{font-family:"Roboto", Sans-serif;font-size:10px;font-weight:400;}.elementor-8199 .elementor-element.elementor-element-dbd786d .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:1rem;font-weight:normal;}.elementor-8199 .elementor-element.elementor-element-fcdb0fe .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:1.5rem;font-weight:600;}@media(max-width:767px){.elementor-8199 .elementor-element.elementor-element-e0c95c0 > .elementor-widget-container{padding:1rem 0rem 0rem 0rem;}.elementor-8199 .elementor-element.elementor-element-01070b3{padding:0rem 0rem 0rem 0rem;}.elementor-8199 .elementor-element.elementor-element-7e00e2a > .elementor-element-populated{padding:0rem 0rem 0rem 0rem;}}/* Start custom CSS for image, class: .elementor-element-e0c95c0 */.product-image-loop img{
+    width: 15rem !important;
+    
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-b18c3af */.product-image-loop{
+ height: 15rem;   
+}
+.post-8204 .elementor-element-512d319 .product-image-loop,
+.post-8488  .elementor-element-512d319 .product-image-loop,
+.post-8611 .elementor-element-512d319 .product-image-loop
+{
+    padding-top: 3rem;
+}
+.product-sale{
+       margin-right: 6rem;
+    padding: 0.25rem 0rem 0rem 0rem;
+    height: 1.5rem;
+    margin-bottom: 10px !important;
+    /*background: #54CAE3;*/
+    border-radius: 4px;
+    font-size: 12px !important;
+}
+.product-title{
+    height: 4rem;
+    margin-bottom: 0px !important;
+}
+.product-price .elementor-widget-container{
+ min-height: 4.5rem;
+ height: 100%;
+ display: flex;
+    align-items: end;
+}
+.product-price del span bdi {
+    font-size: .75rem;
+    display: block;
+    padding-bottom: 1rem;
+    height: 2rem;
+    font-weight: 300;
+}
+.daily-offer{
+    background: #54CAE3;
+    padding-left: 0.5rem !important;
+    color: #fff !important;
+    border-radius: 6px;
+}
+
+
+
+@media screen and (max-width: 768px){
+  .product-sale{
+    margin-right: 2rem;
+  }
+  .product-title{
+
+  }
+  .product-price .elementor-widget-container{
+    min-height: 3.5rem;
+  }
+  .product-image-loop img{
+      width: 11rem !important;
+  }
+  .product-all-content .elementor-widget-wrap{
+       padding: 1rem !important;
+  }
+  .remove-sale-height{
+      height: 0rem;
+  }
+  .product-image-loop{
+      margin-bottom: 0rem !important;
+  }
+}/* End custom CSS */

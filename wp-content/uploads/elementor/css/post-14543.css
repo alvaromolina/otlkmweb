@@ -1,0 +1,20 @@
+.elementor-14543 .elementor-element.elementor-element-c51dde2 .elementor-heading-title{color:#4D4F53;font-family:"Roboto", Sans-serif;font-size:15px;font-weight:500;}.elementor-14543 .elementor-element.elementor-element-c51dde2 > .elementor-widget-container{padding:1rem 0rem 0rem 1.5rem;}.elementor-14543 .elementor-element.elementor-element-5bd6f6a .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:20px;font-weight:500;}.elementor-14543 .elementor-element.elementor-element-5bd6f6a > .elementor-widget-container{padding:0rem 01.5rem 0rem 1.5rem;}.elementor-14543 .elementor-element.elementor-element-083b84d{padding:0rem 0rem 0rem 0rem;}.elementor-14543 .elementor-element.elementor-element-3d38bac .elementor-icon-list-icon{width:14px;}.elementor-14543 .elementor-element.elementor-element-3d38bac .elementor-icon-list-icon i{font-size:14px;}.elementor-14543 .elementor-element.elementor-element-3d38bac .elementor-icon-list-icon svg{width:14px;}.elementor-14543 .elementor-element.elementor-element-3d38bac .elementor-icon-list-text, .elementor-14543 .elementor-element.elementor-element-3d38bac .elementor-icon-list-text a{color:#BAC7D5;}.elementor-14543 .elementor-element.elementor-element-3d38bac .elementor-icon-list-item{font-family:"Roboto", Sans-serif;font-size:12px;font-weight:normal;}.elementor-14543 .elementor-element.elementor-element-3d38bac > .elementor-widget-container{padding:0rem 0rem 0rem 0rem;}.elementor-14543 .elementor-element.elementor-element-dc91a26 .elementor-heading-title{color:#BAC7D5;font-family:"Roboto", Sans-serif;font-size:12px;font-weight:normal;}.elementor-14543 .elementor-element.elementor-element-dc91a26 > .elementor-widget-container{padding:3px 0px 0px 14px;}.elementor-14543 .elementor-element.elementor-element-1ae80dd .elementor-heading-title{color:#004BB9;font-family:"Roboto", Sans-serif;font-size:16px;font-weight:500;}.elementor-14543 .elementor-element.elementor-element-1ae80dd > .elementor-widget-container{padding:0rem 0rem 1rem 01.5rem;}@media(min-width:768px){.elementor-14543 .elementor-element.elementor-element-129d797{width:50%;}.elementor-14543 .elementor-element.elementor-element-97783d1{width:50%;}}/* Start custom CSS for heading, class: .elementor-element-1ae80dd */.job-post-btn a{
+    text-decoration: none !important;
+}
+.list-point li{
+    list-style-type: none;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-033d3cc */.job-box{
+background: #FFFFFF;
+border-top: 5px solid #004BB9;
+border-left: 1px solid #BAC7D5;
+border-right: 1px solid #BAC7D5;
+border-bottom: 1px solid #BAC7D5;
+box-sizing: border-box;
+border-radius: 0px 0px 10px 10px;
+}
+.job-location-cls a,
+.job-title-cls a,
+.valid-date a{
+    text-decoration: none !important;
+}/* End custom CSS */

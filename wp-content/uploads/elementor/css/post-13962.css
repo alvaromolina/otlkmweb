@@ -1,0 +1,23 @@
+.elementor-13962 .elementor-element.elementor-element-86fe363:not(.elementor-motion-effects-element-type-background), .elementor-13962 .elementor-element.elementor-element-86fe363 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F5F7F9;}.elementor-13962 .elementor-element.elementor-element-86fe363{border-style:solid;border-width:1px 1px 1px 1px;border-color:#BAC7D5;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:1rem 1rem 00rem 1rem;}.elementor-13962 .elementor-element.elementor-element-86fe363, .elementor-13962 .elementor-element.elementor-element-86fe363 > .elementor-background-overlay{border-radius:10px 10px 10px 10px;}.elementor-13962 .elementor-element.elementor-element-86fe363 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-13962 .elementor-element.elementor-element-b161196 > .elementor-element-populated{margin:1rem 1rem 1rem 1rem;--e-column-margin-right:1rem;--e-column-margin-left:1rem;}.elementor-13962 .elementor-element.elementor-element-6e9bb2b .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:20px;font-weight:500;}.elementor-13962 .elementor-element.elementor-element-4fc1364{font-family:"Roboto", Sans-serif;font-size:14px;font-weight:400;}.elementor-13962 .elementor-element.elementor-element-47d17f2{text-align:center;color:#4D4F53;font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;}.elementor-13962 .elementor-element.elementor-element-d18e019{text-align:center;}.elementor-13962 .elementor-element.elementor-element-d18e019 .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:34px;font-weight:normal;}.elementor-13962 .elementor-element.elementor-element-d13f139 .cart button{color:#4D4F53;transition:all 0.2s;}.elementor-13962 .elementor-element.elementor-element-d13f139 .quantity .qty{font-family:"Roboto", Sans-serif;font-weight:normal;transition:all 0.2s;}.woocommerce .elementor-13962 .elementor-element.elementor-element-d13f139 form.cart table.variations label{color:#4D4F53;font-family:"Roboto", Sans-serif;font-size:14px;font-weight:normal;}.woocommerce .elementor-13962 .elementor-element.elementor-element-d13f139 form.cart table.variations td.value select{color:#4D4F53;}.woocommerce .elementor-13962 .elementor-element.elementor-element-d13f139 form.cart table.variations td.value select, .woocommerce div.product.elementor.elementor-13962 .elementor-element.elementor-element-d13f139 form.cart table.variations td.value:before{font-family:"Roboto", Sans-serif;font-weight:normal;}/* Start custom CSS for section, class: .elementor-element-86fe363 */.qib-button-wrapper,
+.single_add_to_cart_button {
+
+}
+.plan-loop-cart-btn .qib-button,
+.plan-loop-cart-btn .single_add_to_cart_button {
+    display: none;
+}
+.all-plan-loop{
+    /*margin: 0rem 2rem 0rem 2rem;*/
+}
+.plan-title{
+    height: 4rem;
+}
+.plan-description{
+    height: 5rem;
+}
+.plan-limit{
+    height: 2rem;
+}
+.plan-price{
+    height: 3rem;
+}/* End custom CSS */

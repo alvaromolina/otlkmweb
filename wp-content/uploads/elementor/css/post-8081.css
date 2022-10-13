@@ -1,0 +1,63 @@
+.elementor-8081 .elementor-element.elementor-element-6e59fdd9{padding:1rem 0rem 2rem 0rem;}/* Start custom CSS for section, class: .elementor-element-6e59fdd9 */.site-content{
+    background: #F5F7F9;
+    min-height: 100vh;
+}
+
+
+.woocommerce-notices-wrapper {
+    margin: 1rem !important;
+}
+.main-footer{
+    display: none;
+}
+.entry-header {
+    padding-top: 6rem
+}
+.ast-header-breadcrumb{
+    top: 6rem;
+}
+.woocommerce-MyAccount-navigation-link{
+    border: none;
+    border-left: 10px solid #fff !important; 
+}
+.woocommerce-MyAccount-navigation-link a{
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 150% */
+
+letter-spacing: 1px;
+
+/* Colors/ Secundary / Dark grey */
+
+color: #4D4F53;
+}
+.woocommerce-MyAccount-navigation-link--downloads{
+    display: none;
+}
+.col-1{
+    max-width: 100% !important;
+}
+.col-2{
+    max-width: 100% !important;
+}
+.woocommerce-address-fields  .form-row label{
+    padding-top: 0.5rem;
+}
+.woocommerce-address-fields 
+.woocommerce-input-wrapper{
+    width: 100%;
+}
+
+.woocommerce-address-fields p .button{
+    margin-top: 2rem;
+}
+
+
+.woocommerce-MyAccount-content
+fieldset
+.woocommerce-form-row
+span{
+    width: 100%;
+}/* End custom CSS */

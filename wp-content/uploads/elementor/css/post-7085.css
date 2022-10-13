@@ -1,0 +1,49 @@
+.elementor-7085 .elementor-element.elementor-element-e6f7d59:not(.elementor-motion-effects-element-type-background), .elementor-7085 .elementor-element.elementor-element-e6f7d59 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F5F7F9;}.elementor-7085 .elementor-element.elementor-element-e6f7d59{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:08.5rem 7rem 5rem 7rem;}.elementor-7085 .elementor-element.elementor-element-e6f7d59 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7085 .elementor-element.elementor-element-404a2dc:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-element-populated, .elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-element-populated > .elementor-background-overlay, .elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-background-slideshow{border-radius:20px 20px 20px 20px;}.elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-element-populated{box-shadow:0px 4px 17px 0px rgba(155, 155, 155, 0.17);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0rem 12rem 0rem 12rem;--e-column-margin-right:12rem;--e-column-margin-left:12rem;padding:0rem 0rem 0rem 0rem;}.elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7085 .elementor-element.elementor-element-24eaf50 > .elementor-widget-container{padding:3rem 4rem 5rem 5rem;}@media(max-width:1024px){.elementor-7085 .elementor-element.elementor-element-e6f7d59{padding:3rem 3rem 3rem 3rem;}.elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-element-populated{margin:0rem 0rem 0rem 0rem;--e-column-margin-right:0rem;--e-column-margin-left:0rem;}}@media(max-width:767px){.elementor-7085 .elementor-element.elementor-element-e6f7d59{margin-top:1rem;margin-bottom:1rem;padding:0rem 0rem 0rem 0rem;}.elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-element-populated, .elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-element-populated > .elementor-background-overlay, .elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-background-slideshow{border-radius:5px 5px 5px 5px;}.elementor-7085 .elementor-element.elementor-element-404a2dc > .elementor-element-populated{margin:0rem 0rem 0rem 0rem;--e-column-margin-right:0rem;--e-column-margin-left:0rem;}.elementor-7085 .elementor-element.elementor-element-24eaf50 > .elementor-widget-container{padding:0rem 1rem 0rem 1rem;}}/* Start custom CSS for shortcode, class: .elementor-element-24eaf50 */::placeholder  { 
+    color: #4D4F53;
+    opacity: 0.5;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+}
+select:required:invalid {
+  color: #4D4F53 !important;
+  opacity: 0.5;
+  font-size: 14px !important;
+}
+option[value="Select Country"][disabled] {
+  display: none !important;
+}
+option {
+  color: black !important;
+}
+
+.employment-cv .dz-preview,
+.employment-cv .dz-complete{
+    padding-left: 7rem !important;
+}
+.employment-cv .dz-progress{
+    display:none !important;
+}
+.employment-cv .dz-filename{
+    color: #004BB9 !important;
+}
+.employment-cv .dz-image{
+background-image: url("../../2022/02/cloud-download.svg") !important;
+background-size: 2.5rem !important;
+border: 1px solid #004BB9 !important;
+}
+.wpforms-page-indicator{
+    display: none !important;
+}
+
+
+
+.wpforms-page-next{
+    border: 2px solid #004BB9 !important;
+    border-radius: 8px !important;
+    background: #fff !important;
+    color: #004BB9 !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+}/* End custom CSS */
