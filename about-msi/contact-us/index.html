@@ -2950,20 +2950,21 @@ var wpforms_settings = {"val_required":"This field is required.","val_email":"Pl
 </script>
 
 <script>
-  <script type="text/javascript">
       jQuery( function( $ ) {
 
      //This snippet will only run for the form ID 521
-         $( '#wpforms-form-2427' ).on( 'wpformsAjaxSubmitSuccess', function( e ) {              
+         $( '#wpforms-form-2427' ).on( 'wpformsAjaxSubmitSuccess', function( e ) {  
+			console.log('success');            
 		 	$('#confirmation-221' ).css("display", "block");
          } );
 
-		 $( '#wpforms-form-2427' ).on( 'wpformsAjaxSubmitError', function( e ) {              
+		 $( '#wpforms-form-2427' ).on( 'wpformsAjaxSubmitError', function( e ) {   
+			console.log('error');            
+           
 			  $('#confirmation-221' ).css("display", "block");			   
 		} );
 		 
       } );
-   </script>
 
 </script>
 	</body>
